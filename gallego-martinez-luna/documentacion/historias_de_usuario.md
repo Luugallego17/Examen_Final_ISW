@@ -4,8 +4,6 @@ Una solución pensada para hacer brillar tu tienda de ropa local
 ## Objetivo general:
 Crear un sistema amigable que registre cada venta con cariño y genere reportes diarios que cuenten la historia de tu negocio.
 
----
-
 ## OBJETIVO 1: Registrar ventas con alegría
 
 - **HU-01:** Como vendedor, me encantaría poder registrar cada venta fácilmente y crear tickets bonitos para nuestros clientes.  
